@@ -1,7 +1,8 @@
 # Proxmark3-Amiibo-Emulate
 This Bash Script automatically emulates the Amiibo tag 
-using any Bash terminal. Such as - Termux (using BT(or 
-USB)-TCP Bridge method), Kali Linux, Ubuntu, etc..
+using any Bash terminal and Proxmark3. Such as - Termux
+(using BT(or USB)-TCP Bridge method), Kali Linux, Ubuntu,
+etc..
 
 Syntax:
 
