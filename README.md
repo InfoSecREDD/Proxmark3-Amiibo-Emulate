@@ -6,7 +6,7 @@ etc..
 
 Syntax:
 
-amiibo.sh
+amiibo.sh (Current under review - Does not work.)
 
 ``bash amiibo.sh </path/to/bin/file>``
 
