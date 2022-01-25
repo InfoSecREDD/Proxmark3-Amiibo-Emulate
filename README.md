@@ -6,7 +6,13 @@ etc..
 
 Syntax:
 
+amiibo.sh
+
 ``bash amiibo.sh </path/to/bin/file>``
+
+amiibo-eml.sh
+
+``bash amiibo-eml.sh </path/to/bin/file> <filename.eml>``
 
 To use TCP BL-UART or TCP USB-UART make sure to set 
 "USE_TCP_BRIDGE" to "1".
