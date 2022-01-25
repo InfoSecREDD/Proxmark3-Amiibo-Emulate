@@ -44,7 +44,8 @@ elif [ "${USE_TCP_BRIDGE}" -eq "0" ]; then
 else
         echo "Error: Set correct value for Variables."
 fi
-if [ -f "${EMULATE_FILE}" ]; then                                         echo "Cleaning up after emulation."
+if [ -f "${EMULATE_FILE}" ]; then                                         
+        echo "Cleaning up after emulation."
         rm -rf "${EMULATE_FILE}"
 fi
 echo "Done."
