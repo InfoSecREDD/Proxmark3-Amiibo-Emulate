@@ -30,7 +30,7 @@ to "0".
 # How-to Download the Script:
 Easy Method: (from bash terminal)
 
-``wget https://raw.githubusercontent.com/InfoSecREDD/Proxmark3-Amiibo-Emulate/main/amiibo.sh -O amiibo.sh | chmod +x amiibo.sh``
+``wget https://raw.githubusercontent.com/InfoSecREDD/Proxmark3-Amiibo-Emulate/main/amiibo-eml.sh -O amiibo-eml.sh | chmod +x amiibo.sh``
 
 
 Other Methods:
