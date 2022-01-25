@@ -13,6 +13,9 @@ To use TCP BL-UART or TCP USB-UART make sure to set
 To use normal /dev/ttyACM0 make sure to set "USE_TCP_BRIDGE"
 to "0".
 
+(Make sure to view the file and edit the variables accordingly to your system
+)
+
 # How-to Download the Script:
 Easy Method: (from bash terminal)
 
