@@ -12,11 +12,7 @@ amiibo.sh (Current under review - Does not work.)
 
 amiibo-eml.sh
 
-``bash amiibo-eml.sh </path/to/bin/file.bin> <filename.eml>``
-
-or
-
-``bash amiibo-eml.sh </path/to/eml/file.eml>``
+``bash amiibo-eml.sh </path/to/eml/file.bin>``
 
 To use TCP BL-UART or TCP USB-UART make sure to set 
 "USE_TCP_BRIDGE" to "1".
