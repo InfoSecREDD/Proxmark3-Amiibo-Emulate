@@ -29,7 +29,7 @@ fi
 
 if [ "${AMIIBO: -4}" == ".bin" ]; then
         EMULATE_FILE="${DUMP_DIR}/amiibo.eml"
-        AMIIBO_TEMP="${DUMP_DIR}/amiibo.bin"
+        AMIIBO_COPY="${DUMP_DIR}/amiibo.bin"
         if [ -f "${EMULATE_FILE}" ]; then
                 rm -rf "${EMULATE_FILE}"
         fi
