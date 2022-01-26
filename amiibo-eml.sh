@@ -3,7 +3,7 @@
 #  Title: Amiibo Convert & Emulate Bash Script for Proxmark3
 #  Author: InfoSecREDD
 #
-#  SYNTAX: bash amiibo.sh </path/to/bin/file.bin>
+#  SYNTAX: bash amiibo-eml.sh </path/to/bin/file.bin>
 
 
 AMIIBO="${1}"
