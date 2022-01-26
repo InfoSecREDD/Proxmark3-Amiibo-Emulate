@@ -8,7 +8,7 @@
 
 AMIIBO="${1}"
 
-DUMP_DIR="${HOME}/dumps/amiibo_eml"
+DUMP_DIR="${HOME}/dumps"
 PROXMARK_DIR="${HOME}/proxmark3"
 
 CLIENT="${PROXMARK_DIR}/client/proxmark3"
